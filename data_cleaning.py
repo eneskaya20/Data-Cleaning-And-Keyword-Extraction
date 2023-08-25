@@ -2,7 +2,6 @@ import json
 import pandas as pd
 import re
 import unicodedata
-from keybert import KeyBERT
 
 pd.set_option('display.max_colwidth', None)
 
